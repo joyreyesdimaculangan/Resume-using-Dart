@@ -1,6 +1,6 @@
-# resume_using_dart
+# A Resume Application using Dart
 
-A new Flutter project.
+A new Flutter project which is a simple resume application using Dart
 
 ## Getting Started
 
